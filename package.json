@@ -1,0 +1,15 @@
+{
+  "name": "magpie-clixad",
+  "version": "0.1.0",
+  "description": "Clixad gateway provider plugin for magpie: all 15 Clixad models, CLI sign-in reuse, free-tier usage and credit balance",
+  "type": "module",
+  "main": "./index.mjs",
+  "files": ["index.mjs", "README.md"],
+  "keywords": ["magpie", "magpie-plugin", "opencode", "opencode-plugin", "clixad"],
+  "license": "MIT",
+  "magpie": {
+    "name": "Clixad",
+    "maxConcurrency": 2,
+    "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNiIgZmlsbD0iIzExNjFkNiIvPjxwYXRoIGQ9Ik0xMCAyMmg0di00aDR2LTRoNHY0aDR2NGg0djRoLTR2NGgtNHY0aC00di00aC00eiIgZmlsbD0iIzY0ZDhmZiIvPjwvc3ZnPg=="
+  }
+}
