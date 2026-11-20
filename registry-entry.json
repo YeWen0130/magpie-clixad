@@ -1,8 +1,10 @@
 {
   "package": "@magpie-community/opencode-clixad-auth",
   "name": "Clixad",
-  "icon": "https://clixad.onrender.com/favicon.ico",
-  "providers": ["clixad"],
+  "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNiIgZmlsbD0iIzExNjFkNiIvPjxwYXRoIGQ9Ik0xMCAyMmg0di00aDR2LTRoNHY0aDR2NGg0djRoLTR2NGgtNHY0aC00di00aC00eiIgZmlsbD0iIzY0ZDhmZiIvPjwvc3ZnPg==",
+  "providers": [
+    "clixad"
+  ],
   "community": true,
   "summary": {
     "en": "Clixad's 15 models through its OpenAI-compatible gateway on your own Clixad account: reuse the Clixad CLI sign-in or paste its token, with the live model list, the daily free-credit window and the credit balance.",
