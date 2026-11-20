@@ -1,0 +1,11 @@
+{
+  "package": "@magpie-community/opencode-clixad-auth",
+  "name": "Clixad",
+  "icon": "https://clixad.onrender.com/favicon.ico",
+  "providers": ["clixad"],
+  "community": true,
+  "summary": {
+    "en": "Clixad's 15 models through its OpenAI-compatible gateway on your own Clixad account: reuse the Clixad CLI sign-in or paste its token, with the live model list, the daily free-credit window and the credit balance.",
+    "zh": "用自己的 Clixad 账号经其 OpenAI 兼容网关使用全部 15 个模型：复用本机 Clixad CLI 登录或粘贴 token，显示实时模型列表、每日免费额度窗口与积分余额。"
+  }
+}
